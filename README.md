@@ -36,3 +36,27 @@ python adventure_game.py
 ```
 
 ## Example Gameplay
+
+```
+=== Welcome to the Ancient Quest ===
+Adventurer, what is your name? > Maral
+
+You arrive at a fork: a DARK FOREST to the left and a MYSTERIOUS CAVE to the right.
+1. Forest
+2. Cave
+> 2
+
+--- The Cave ---
+1. Light a torch
+2. Proceed in the dark
+> 1
+
+You strike a spark and the torch flares to life...
+A golden relic sits atop a stone altar — the legendary treasure! ✨
+
+Congratulations, Maral! You have found the treasure!
+```
+---
+
+*Project completed as part of the Microsoft AI Engineer Program — SimpliLearn (2026)*  
+*Author: Maral-Od Ganzurkh | [maralganzurkh.com](https://maralganzurkh.com)*
